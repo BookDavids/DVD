@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**,**Node.js**, **Git** and am currently exploring **Cybersecurity**.
 
-<img align="right" width="240px" src="imagem" alt="character"/>
+<img align="right" width="240px" src="https://github.com/BookDavids/DVD/blob/main/charjpg.jpg" alt="character"/>
 
 <br clear="right"/>
 
