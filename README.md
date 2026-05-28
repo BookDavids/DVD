@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&size=26&pause=1000&color=9E0000&center=true&width=600&lines=Full-Stack+Developer;Amidst+the+chaos;I+find+my+kingdom;Don't+fuck+with+a+witch!" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&pause=1000&color=F70707&center=true&width=435&lines=A+simplicidade+%C3%A9+o+%C3%BAltimo+grau+de+sofistica%C3%A7%C3%A3o.;Three-time+Acrean+Middleweight+Jiu-Jitsu+Champion;Operating+Systems+Developer">
 </div>
 
 <br/>
