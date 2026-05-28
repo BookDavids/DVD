@@ -28,13 +28,13 @@
 
 ---
 
-**Full-Stack Developer**
+**Operating Systems Analysis**
 
 > *"In the midst of chaos, I find my kingdom."*
 
 Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.  I am still a beginner and am learning overall.
 
-I also have experience with **HTML**, **CSS**, **JavaScript**,**Node.js**, **Git** and am currently exploring **Cybersecurity**.
+I also have experience with **HTML**, **CSS**, **JavaScript**, **Git** and am currently exploring **Cybersecurity**.
 
 <img align="right" width="240px" src="https://github.com/BookDavids/DVD/blob/main/charjpg.jpg" alt="character"/>
 
