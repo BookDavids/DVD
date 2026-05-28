@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="imagem" width="100%" alt="banner"/>
+  <img src="https://github.com/BookDavids/DVD/blob/main/bannerjpg.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
